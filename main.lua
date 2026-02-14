@@ -1,3 +1,4 @@
+print("testing")
 --create windUI
 loadstring(game:HttpGet("https://github.com/adamMasMusic/asseter/raw/refs/heads/main/functions/windUI.lua"))()
 repeat task.wait() until _G.assetStealer
