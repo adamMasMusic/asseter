@@ -30,4 +30,4 @@ local funcs = {
 }
 
 _G.assetStealer.Functions = funcs
-loadstring(game:HttpGet("https://github.com/adamMasMusic/asseter/raw/refs/heads/main/functions/decompress.lua"))
+loadstring(game:HttpGet("https://github.com/adamMasMusic/asseter/raw/refs/heads/main/functions/decompress.lua"))()
